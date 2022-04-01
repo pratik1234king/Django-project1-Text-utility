@@ -1,0 +1,5 @@
+
+
+we cant sent big data through get as we have limited url length so instead of get use post request
+
+csrf cross site request forgery: it tells that request from own website not other website
